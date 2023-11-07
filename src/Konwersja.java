@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner;
 
 public class Konwersja
@@ -5,12 +6,7 @@ public class Konwersja
     public static void main(String[] args) {
 
 
-        /*int wiek;
 
-        double waga;
-        char inicjaly;
-        boolean kobieta;
-*/
 
             Scanner scanner = new Scanner(System.in);
 
@@ -70,3 +66,4 @@ public class Konwersja
     }
 
 }
+*/
